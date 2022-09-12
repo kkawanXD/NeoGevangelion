@@ -34,8 +34,7 @@
 				}
 			}
 			else{
-                echo "esse e-mail já existe"
-				exit;
+                echo "esse e-mail já existe";
 			}
 		?>
 		
